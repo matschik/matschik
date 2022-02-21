@@ -2,7 +2,7 @@
 
 Hey, I’m Mathieu.
 
-I’m a freelance Svelte & Node.js developer currently living in Nice, France.<br/>
+I’m a freelance Svelte & Node.js developer currently living in France.<br/>
 Right now I’m building web apps. Let’s grab a coffee.
 
 I'm currently in a freelance mission.<br/>
