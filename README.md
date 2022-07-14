@@ -6,7 +6,7 @@
 Feel free to contact me !
 
 - 🧡 In love with Svelte providing simplicity & performance compared to React, Vue, Angular.
-- 🌱 I’m constantly learning about DX for better app scaling and boosting my team productivity
+- 🚀 I’m constantly learning about DX for better app scaling and boosting my team productivity
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mathieu-schimmerling/">
