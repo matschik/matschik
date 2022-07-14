@@ -5,7 +5,7 @@
 🟢 Currently available for a new mission: July 2022 !<br/>
 Feel free to contact me !
 
-- 🧡 In love with Svelte providing simplicity & performance compared to React, Vue, Angular,...
+- 🧡 In love with Svelte providing simplicity & performance compared to React, Vue, Angular.
 - 🌱 I’m constantly learning about DX for better app scaling and boosting my team productivity
 
 <div align="left">
