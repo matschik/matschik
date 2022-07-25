@@ -2,7 +2,7 @@
 
 ## I'm a Freelance Senior Front-end Developer 💻
 
-🟢 Currently available for a new mission: July 2022 !<br/>
+🟢 Currently available for a new mission: August 2022 !<br/>
 Feel free to contact me !
 
 - 🧡 In love with Svelte providing simplicity & performance compared to React, Vue, Angular.
