@@ -1,6 +1,6 @@
 ### Hi there, I'm Mathieu Schimmerling 👋
 
-## I'm a Freelance Senior JavaScript Developer 💻
+## I'm a Freelance Senior Full-Stack Software Engineer JavaScript 💻
 
 🟠 Not available<br/>
 Feel free to contact me later !
