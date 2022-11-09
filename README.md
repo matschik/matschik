@@ -1,11 +1,11 @@
 ### Hi there, I'm Mathieu Schimmerling 👋
 
-## I'm a Freelance Senior Front-end Developer 💻
+## I'm a Freelance Senior JavaScript Developer 💻
 
 🟠 Not available<br/>
 Feel free to contact me later !
 
-- 🧡 In love with Svelte providing simplicity & performance compared to React, Vue, Angular.
+- 🧡 In love with Svelte providing more simplicity & performance compared to React, Vue, Angular.
 - 🚀 I’m constantly learning about DX for better app scaling and boosting my team productivity
 
 <div align="left">
