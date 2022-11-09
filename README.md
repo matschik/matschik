@@ -16,4 +16,3 @@ Feel free to contact me later !
     />
   </a>
 </div>
-Mail: mathieu.schimmerling@protonmail.com<br/>
