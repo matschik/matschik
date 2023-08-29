@@ -2,11 +2,12 @@
 
 ## I'm a Freelance Senior JS Software Engineer 💻
 
-🟠 Not available<br/>
-Feel free to contact me later !
+🟢 Available for a freelance mission in JS/NodeJS<br/>
+Feel free to contact me on LinkedIn or by mail.
 
-- 🧡 In love with Svelte providing more simplicity & performance compared to React, Vue, Angular.
-- 🚀 I’m constantly learning about DX for better app scaling and boosting my team productivity
+- 🚀 Currently building an app to help people learn korean actually used by native koreans
+- 🧡 In love with Svelte providing more simplicity & performance
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mathieu-schimmerling/">
