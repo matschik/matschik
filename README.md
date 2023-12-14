@@ -3,7 +3,7 @@
 ## I'm a Freelance Senior JS Software Engineer 💻
 
 🟢 Available for a freelance mission in JS/NodeJS (full remote)<br/>
-Feel free to contact me on LinkedIn or by mail.
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mathieu-schimmerling/) or by mail: mathieu.schimmerling@protonmail.com
 
 
 <div align="left">
