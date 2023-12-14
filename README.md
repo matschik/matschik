@@ -5,9 +5,6 @@
 🟢 Available for a freelance mission in JS/NodeJS (full remote)<br/>
 Feel free to contact me on LinkedIn or by mail.
 
-- 🚀 Currently building an app to help people learn korean actually used by native koreans
-- 🧡 In love with Svelte providing more simplicity & performance
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mathieu-schimmerling/">
