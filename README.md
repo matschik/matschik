@@ -4,6 +4,7 @@
 
 🟢 Available for a freelance mission in JS/NodeJS (full remote)<br/>
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mathieu-schimmerling/) or by mail: mathieu.schimmerling@protonmail.com
+[Mon Blog](https://www.matschik.com/)
 
 
 <div align="left">
