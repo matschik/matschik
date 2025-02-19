@@ -6,7 +6,7 @@
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mathieu-schimmerling/) or by mail: mathieu.schimmerling@protonmail.com
 
 
-[My Blog](https://www.matschik.com/)
+[My Blog](https://matschik.com/)
 
 
 <div align="left">
