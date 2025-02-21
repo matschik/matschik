@@ -1,9 +1,8 @@
 ### Hi there, I'm Mathieu Schimmerling 👋
 
-## I'm a Freelance Senior JS Software Engineer 💻
+## I'm a Svelte Node.js Developer freelance 💻
 
-🟢 Available for a freelance mission in JS/NodeJS (full remote)<br/>
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mathieu-schimmerling/) or by mail: mathieu.schimmerling@protonmail.com
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mathieu-schimmerling/) or by mail: mathieu.schimmerling@gmail.com
 
 
 [My Blog](https://matschik.com/)
